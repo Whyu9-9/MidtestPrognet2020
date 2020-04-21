@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn130.picsart.com/297638030146211.png?type=webp&to=min&r=640" width="400"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://i0.wp.com/risibank.fr/cache/stickers/d1190/119098-full.gif" alt="Build Status"></a>
