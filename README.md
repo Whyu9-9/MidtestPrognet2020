@@ -62,18 +62,17 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [OP.GG](https://op.gg)
 - [云软科技](http://www.yunruan.ltd/)
 
-## Contributing
+## Solo Praktikum
+Thank you for solo praktikum using the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Ricardo Milos
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Ricardo Milos was born on November 11, 1977. He was born in Rio de Janeiro, Brazil, an is both Brazilian and Irish. However, he is adopted, and was fostered by a Greek father and a Canadian mother. Ricardo is 5 foot 8, and weighs 190 pounds.
 
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
+## Harap baca nih yang mau ngopas midtest saya
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+awas ketauan sm asdos ea hehe
